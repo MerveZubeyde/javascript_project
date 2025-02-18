@@ -3,4 +3,4 @@
 Bu bir Drawing_App projesidir.
 
 Canlı Demo için;
-🔗https://MerveZubeyde.github.io/javascript_project/
+🔗https://javascript-project-mervezubeydes-projects.vercel.app/
